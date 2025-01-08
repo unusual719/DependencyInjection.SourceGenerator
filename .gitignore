@@ -377,3 +377,7 @@ FodyWeavers.xsd
 /Test/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfo.cs
 /Test/ClassLibrary.Core/obj/Debug/net8.0/ClassLibrary.Core.AssemblyInfoInputs.cache
 /Test/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Test/ClassLibrary.Core
+/Test/ClassLibrary1
+/Test/ClassLibrary2
+/Test/DependencyInjection.Test
