@@ -1,0 +1,33 @@
+D:\DependencyInjection\ClassLibrary.Core\bin\Debug\net8.0\ClassLibrary.Core.deps.json
+D:\DependencyInjection\ClassLibrary.Core\bin\Debug\net8.0\ClassLibrary.Core.dll
+D:\DependencyInjection\ClassLibrary.Core\bin\Debug\net8.0\ClassLibrary.Core.pdb
+D:\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.AssemblyInfoInputs.cache
+D:\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.AssemblyInfo.cs
+D:\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.csproj.CoreCompileInputs.cache
+D:\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.dll
+D:\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\refint\ClassLibrary.Core.dll
+D:\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.pdb
+D:\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ref\ClassLibrary.Core.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\ClassLibrary.Core\bin\Debug\net8.0\ClassLibrary.Core.deps.json
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\ClassLibrary.Core\bin\Debug\net8.0\ClassLibrary.Core.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\ClassLibrary.Core\bin\Debug\net8.0\ClassLibrary.Core.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.AssemblyInfoInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.AssemblyInfo.cs
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.csproj.CoreCompileInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\refint\ClassLibrary.Core.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\ClassLibrary.Core\obj\Debug\net8.0\ref\ClassLibrary.Core.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\Test\ClassLibrary.Core\bin\Debug\net8.0\ClassLibrary.Core.deps.json
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\Test\ClassLibrary.Core\bin\Debug\net8.0\ClassLibrary.Core.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\Test\ClassLibrary.Core\bin\Debug\net8.0\ClassLibrary.Core.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\Test\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\Test\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.AssemblyInfoInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\Test\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.AssemblyInfo.cs
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\Test\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.csproj.CoreCompileInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\Test\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\Test\ClassLibrary.Core\obj\Debug\net8.0\refint\ClassLibrary.Core.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\Test\ClassLibrary.Core\obj\Debug\net8.0\ClassLibrary.Core.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\Test\ClassLibrary.Core\obj\Debug\net8.0\ref\ClassLibrary.Core.dll

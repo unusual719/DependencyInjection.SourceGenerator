@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DependencyInjection.Automatic
+build_property.ProjectDir = D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.Automatic\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

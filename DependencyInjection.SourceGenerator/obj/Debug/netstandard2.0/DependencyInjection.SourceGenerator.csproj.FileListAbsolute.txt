@@ -1,0 +1,30 @@
+D:\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.SourceGenerator.deps.json
+D:\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.SourceGenerator.dll
+D:\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.SourceGenerator.pdb
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.csproj.AssemblyReference.cache
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.AssemblyInfoInputs.cache
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.AssemblyInfo.cs
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.csproj.CoreCompileInputs.cache
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.dll
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.SourceGenerator.deps.json
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.SourceGenerator.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.SourceGenerator.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.csproj.AssemblyReference.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.AssemblyInfoInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.AssemblyInfo.cs
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.csproj.CoreCompileInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.SourceGenerator\bin\Debug\netstandard2.0\DependencyInjection.SourceGenerator.deps.json
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.SourceGenerator\bin\Debug\netstandard2.0\DependencyInjection.SourceGenerator.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.SourceGenerator\bin\Debug\netstandard2.0\DependencyInjection.SourceGenerator.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.SourceGenerator\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.csproj.AssemblyReference.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.SourceGenerator\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.SourceGenerator\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.AssemblyInfoInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.SourceGenerator\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.AssemblyInfo.cs
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.SourceGenerator\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.csproj.CoreCompileInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.SourceGenerator\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.SourceGenerator\obj\Debug\netstandard2.0\DependencyInjection.SourceGenerator.pdb

@@ -1,0 +1,20 @@
+D:\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.csproj.AssemblyReference.cache
+D:\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.GeneratedMSBuildEditorConfig.editorconfig
+D:\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.AssemblyInfoInputs.cache
+D:\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.AssemblyInfo.cs
+D:\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.csproj.CoreCompileInputs.cache
+D:\DependencyInjection\DependencyInjection.Automatic\bin\Debug\netstandard2.0\DependencyInjection.Automatic.deps.json
+D:\DependencyInjection\DependencyInjection.Automatic\bin\Debug\netstandard2.0\DependencyInjection.Automatic.dll
+D:\DependencyInjection\DependencyInjection.Automatic\bin\Debug\netstandard2.0\DependencyInjection.Automatic.pdb
+D:\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.dll
+D:\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.Automatic\bin\Debug\netstandard2.0\DependencyInjection.Automatic.deps.json
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.Automatic\bin\Debug\netstandard2.0\DependencyInjection.Automatic.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.Automatic\bin\Debug\netstandard2.0\DependencyInjection.Automatic.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.csproj.AssemblyReference.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.AssemblyInfoInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.AssemblyInfo.cs
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.csproj.CoreCompileInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection.Automatic\obj\Debug\netstandard2.0\DependencyInjection.Automatic.pdb

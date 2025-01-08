@@ -1,0 +1,30 @@
+D:\CSharp\CSharp_Code\00. IOC 依赖注入\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.deps.json
+D:\CSharp\CSharp_Code\00. IOC 依赖注入\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.dll
+D:\CSharp\CSharp_Code\00. IOC 依赖注入\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.pdb
+D:\CSharp\CSharp_Code\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.csproj.AssemblyReference.cache
+D:\CSharp\CSharp_Code\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSharp_Code\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.AssemblyInfoInputs.cache
+D:\CSharp\CSharp_Code\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.AssemblyInfo.cs
+D:\CSharp\CSharp_Code\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharp_Code\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.dll
+D:\CSharp\CSharp_Code\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.deps.json
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.pdb
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.csproj.AssemblyReference.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.AssemblyInfoInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.AssemblyInfo.cs
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.dll
+D:\C# & .NET 书籍\CodeExamples\00. IOC 依赖注入\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.pdb
+D:\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.deps.json
+D:\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.dll
+D:\DependencyInjection\DependencyInjection\bin\Debug\netstandard2.0\DependencyInjection.pdb
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.csproj.AssemblyReference.cache
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.AssemblyInfoInputs.cache
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.AssemblyInfo.cs
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.dll
+D:\DependencyInjection\DependencyInjection\obj\Debug\netstandard2.0\DependencyInjection.pdb
